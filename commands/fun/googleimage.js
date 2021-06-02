@@ -1,0 +1,1 @@
+const img = require('images-scraper
